@@ -1,0 +1,75 @@
+{
+  "homepage": {
+    "url": "https://vps-scout-preview.pages.dev/",
+    "fetch_time": "2026-10-18T11:11:18.403Z",
+    "lighthouse_version": "13.4.1",
+    "categories": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "failed_audits": []
+  },
+  "detail": {
+    "url": "https://vps-scout-preview.pages.dev/deals/racknerd-1-gb-kvm-vps/",
+    "fetch_time": "2026-10-18T11:14:06.473Z",
+    "lighthouse_version": "13.4.1",
+    "categories": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "failed_audits": []
+  },
+  "performance": {
+    "url": "https://vps-scout-preview.pages.dev/",
+    "lcp_ms": 655,
+    "cls": 0,
+    "conditions": "390x844 Chrome, Fast 4G, CPU 4x slowdown, cold reload",
+    "type": "single laboratory observation; no field data"
+  },
+  "deployment": "https://043a2692.vps-scout-preview.pages.dev",
+  "palette_revision": {
+    "homepage": {
+      "url": "http://localhost:8797/",
+      "fetch_time": "2026-10-18T11:18:29.923Z",
+      "lighthouse_version": "13.4.1",
+      "categories": {
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100,
+        "agentic-browsing": 100
+      },
+      "failed_audits": []
+    },
+    "detail": {
+      "url": "http://localhost:8797/deals/racknerd-1-gb-kvm-vps/",
+      "fetch_time": "2026-10-18T11:19:01.986Z",
+      "lighthouse_version": "13.4.1",
+      "categories": {
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100,
+        "agentic-browsing": 100
+      },
+      "failed_audits": []
+    }
+  },
+  "six_provider_revision": {
+    "url": "http://localhost:8797/",
+    "fetch_time": "2026-10-18T11:34:55.464Z",
+    "categories": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "provider_count": 6,
+    "plan_count": 97,
+    "sitemap_pages": 107,
+    "tests_passed": 16,
+    "config_mutation_proof": "quality/config-change-proof.json"
+  }
+}

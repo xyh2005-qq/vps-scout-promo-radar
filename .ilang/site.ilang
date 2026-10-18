@@ -1,0 +1,26 @@
+::ILANG
+[TYPE:config][PROJECT:VPS Scout][LANG:zh]
+::STATE{@SITE, brand:VPS Scout, niche:VPS hosting offers, domain:https://vps-scout-preview.pages.dev}
+::MODULE{PROVIDERS|title:抓哪几家 这里改了站就变}
+RackNerd | https://www.racknerd.com/ | https://www.racknerd.com/specials/ |
+RamNode | https://ramnode.com/ | https://ramnode.com/pricing/ |
+GreenCloud | https://greencloudvps.com/ | https://greencloudvps.com/billing/store/premium-kvm-sale |
+CloudCone | https://cloudcone.com/ | https://cloudcone.com/vps/ |
+ServaRica | https://servarica.com/ | https://servarica.com/browse/ |
+VPSDime | https://vpsdime.com/ | https://vpsdime.com/linux-vps |
+::MODULE{FIELDS|title:每条优惠提取什么}
+title price currency offer_url valid_until source_url fetched_at
+::MODULE{SETTINGS|title:机器读取的明确配置}
+::CONFIG{"locale":"en-US","currency":"USD","cron":"17 */6 * * *","stale_hours":30,"repository_url":"https://github.com/xyh2005-qq/vps-scout-promo-radar","deployment_status":"Public repository available; six-hour GitHub refresh configured; automatic Pages deployment pending"}
+::MODULE{ADAPTERS|title:解析器和来源元数据}
+::ADAPTER{"provider":"RackNerd","parser":"racknerd","kind":"special","currency":"USD","terms_url":"https://www.racknerd.com/affiliates-terms-of-service"}
+::ADAPTER{"provider":"RamNode","parser":"ramnode","kind":"regular","currency":"USD","terms_url":""}
+::ADAPTER{"provider":"GreenCloud","parser":"greencloud","kind":"special","currency":"USD","terms_url":""}
+::ADAPTER{"provider":"CloudCone","parser":"cloudcone","kind":"regular","currency":"USD","terms_url":""}
+::ADAPTER{"provider":"ServaRica","parser":"servarica","kind":"regular","currency":"USD","terms_url":""}
+::ADAPTER{"provider":"VPSDime","parser":"vpsdime","kind":"regular","currency":"USD","terms_url":""}
+::RULE{抓不到 price⇒这条不写 price 字段 也不写进结构化数据 不许拿估的填}
+::RULE{valid_until 已过⇒下架; 抓取失败⇒移出有效列表; 超过 stale_hours⇒移出有效列表}
+::RULE{每家先检查robots; 403或429停止; 不绕反爬; 价格和规格必须来自同一套餐块}
+::RULE{只渲染PROVIDERS中的厂商; 常规价格不冒充折扣; 年付不得冒充月付; 不伪造库存}
+::BOUNDARY{never:编优惠 编价格 编佣金 付费推理 自动发社交消息|scope:permanent}

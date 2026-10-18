@@ -1,0 +1,74 @@
+{
+  "verified_at": "2026-10-18T11:35:11+00:00",
+  "config_file": ".ilang/site.ilang",
+  "mutation": "Remove the GreenCloud provider row only; keep adapter declarations unchanged",
+  "network_mode": "Live public fetches with Fetcher robots checks; no fixtures",
+  "before_providers": [
+    "RackNerd",
+    "RamNode",
+    "GreenCloud",
+    "CloudCone",
+    "ServaRica",
+    "VPSDime"
+  ],
+  "before_plan_count": 97,
+  "after_providers": [
+    "RackNerd",
+    "RamNode",
+    "CloudCone",
+    "ServaRica",
+    "VPSDime"
+  ],
+  "after_plan_count": 72,
+  "after_page_count": 81,
+  "source_results": [
+    {
+      "provider": "RackNerd",
+      "source_url": "https://www.racknerd.com/specials/",
+      "attempted_at": "2026-10-18T11:34:35+00:00",
+      "status": "ok",
+      "count": 5,
+      "sha256": "0afdb130ee264ffa143f6e4a549570bfb08570c414347fb7a3f8c7393f8f96f5"
+    },
+    {
+      "provider": "RamNode",
+      "source_url": "https://ramnode.com/pricing/",
+      "attempted_at": "2026-10-18T11:34:48+00:00",
+      "status": "ok",
+      "count": 23,
+      "sha256": "1196196626851c1811b1fd7c1a9a42ed59149367e5872d553c3817fd014a4013"
+    },
+    {
+      "provider": "CloudCone",
+      "source_url": "https://cloudcone.com/vps/",
+      "attempted_at": "2026-10-18T11:34:50+00:00",
+      "status": "ok",
+      "count": 6,
+      "sha256": "4e5ab282ae9bb3d845dbaf84fef6f9aaed3d02a1e20a286945773a591ac70aa5"
+    },
+    {
+      "provider": "ServaRica",
+      "source_url": "https://servarica.com/browse/",
+      "attempted_at": "2026-10-18T11:34:54+00:00",
+      "status": "ok",
+      "count": 27,
+      "sha256": "dbae750c29cd6f945890d4c09d9b1122507a310f2c33cf4ac470e7158c2b7fda"
+    },
+    {
+      "provider": "VPSDime",
+      "source_url": "https://vpsdime.com/linux-vps",
+      "attempted_at": "2026-10-18T11:35:05+00:00",
+      "status": "ok",
+      "count": 11,
+      "sha256": "e38f7ef71891dc91bf0ecafca9c512e34ca76e56d56d2f0e28f69f19619328b7"
+    }
+  ],
+  "assertions": {
+    "greencloud_not_fetched": true,
+    "greencloud_provider_page_absent": true,
+    "greencloud_absent_from_homepage": true,
+    "greencloud_absent_from_sitemap": true,
+    "all_remaining_sources_ok": true,
+    "production_config_unchanged": true
+  }
+}
