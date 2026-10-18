@@ -4,7 +4,7 @@ Official prices. Clear terms. Your next server.
 
 An independent English-language VPS offer directory. The six official sources are RackNerd, RamNode, GreenCloud, CloudCone, ServaRica and VPSDime. Regular prices are explicitly separated from promotions. Brand is a working name, not a trademark clearance claim.
 
-Live site: https://vps-scout-radar.pages.dev/
+Live site: https://vpsscout.site/
 
 Original preview URL: https://vps-scout-preview.pages.dev/ (redirects to the Git-integrated site).
 
@@ -58,7 +58,7 @@ Four scheduled builds per day are roughly 120–124 per month. Cloudflare's docu
 
 Pages include a self canonical, Open Graph, Twitter card, breadcrumb data, real timestamps and generated sitemap/robots. Lists use `ItemList`; VPS detail pages use `Service` with an `Offer`; provider pages use billing-cycle-separated `AggregateOffer`. Missing inventory/expiry fields are omitted. Schema.org validity does not guarantee Google rich-result eligibility; a VPS Service is not relabeled as a physical Product merely to force Product results. `verify.py` checks JSON syntax, links and metadata; it is not Google's Rich Results Test.
 
-Domain age, commit counts and public GitHub links do not guarantee rankings or authority. A custom domain helps control branding, URLs and portability; buying it today does not buy search ranking. Registration is being pursued at the owner’s request; the domain is not registered until a registrar confirms the order. Update the domain in I-Lang, rebuild, bind the verified domain in Cloudflare and redirect the previous production host; configure Search Console after ownership is verified. Domain ownership and portability are distinct from search ranking.
+Domain age, commit counts and public GitHub links do not guarantee rankings or authority. A custom domain helps control branding, URLs and portability; buying it today does not buy search ranking. The owner registered vpsscout.site with Spaceship and configured Cloudflare nameservers. The canonical domain is controlled by .ilang/site.ilang; builds generate canonical URLs, structured-data URLs, robots.txt and sitemap.xml from that value. Configure Search Console after ownership is verified. Domain ownership and portability are distinct from search ranking.
 
 Sitemap `lastmod` reflects the source check time displayed on each page, not a made-up publication date. This v1 is en-US only and does not claim that other locales are disjoint markets. Add actual local offers and translated editorial content before expanding, then add reciprocal hreflang and x-default.
 

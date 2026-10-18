@@ -1,6 +1,6 @@
 ::ILANG
 [TYPE:config][PROJECT:VPS Scout][LANG:zh]
-::STATE{@SITE, brand:VPS Scout, niche:VPS hosting offers, domain:https://vps-scout-radar.pages.dev}
+::STATE{@SITE, brand:VPS Scout, niche:VPS hosting offers, domain:https://vpsscout.site}
 ::MODULE{PROVIDERS|title:抓哪几家 这里改了站就变}
 RackNerd | https://www.racknerd.com/ | https://www.racknerd.com/specials/ |
 RamNode | https://ramnode.com/ | https://ramnode.com/pricing/ |
