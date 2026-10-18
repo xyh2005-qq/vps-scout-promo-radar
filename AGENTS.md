@@ -9,5 +9,4 @@
 ::RULE{发布前运行python3 -m unittest discover -s tests以及python3 verify.py}
 ::BOUNDARY{never:编价格 编折扣 编佣金 伪造到期日 买粉 刷量 cookie注入 品牌词竞价 自买自推 提交密钥|scope:permanent}
 ::STATE{@MONETIZATION, current:无联盟凭据, rule:获批准后才在配置中填写真实联盟链接并保留披露}
-::RULE{实质候选项判断先运行/Users/xiezheng/.local/bin/jev获得第二意见; 不提供密钥或完整仓库; 不可用时说明并继续}
 ::RULE{账期支持month quarter year; 月均仅计算显示 不改原始price; 过滤明确售罄; 区分USD与CAD; 保留无退款限制}
