@@ -1,0 +1,28 @@
+{
+  "workflow_url": "https://github.com/xyh2005-qq/vps-scout-promo-radar/actions/runs/39124180394",
+  "refresh_commit": "6f76c0eb74adae7931ea821c8e0798dfac7e9c08",
+  "deployment": {
+    "url": "https://3aa689da.vps-scout-radar.pages.dev",
+    "status": {
+      "name": "deploy",
+      "started_on": "2026-10-18T11:40:43.399753Z",
+      "ended_on": "2026-10-18T11:40:48.537361Z",
+      "status": "success"
+    },
+    "trigger": {
+      "type": "github:push",
+      "metadata": {
+        "branch": "main",
+        "commit_hash": "6f76c0eb74adae7931ea821c8e0798dfac7e9c08",
+        "commit_message": "Refresh official VPS source data",
+        "commit_dirty": false
+      }
+    }
+  },
+  "assertions": {
+    "workflow_conclusion": "success",
+    "all_six_sources_ok": true,
+    "deployment_commit_matches_refresh": true,
+    "deployment_success": true
+  }
+}

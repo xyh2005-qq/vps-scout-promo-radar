@@ -4,11 +4,13 @@ Official prices. Clear terms. Your next server.
 
 An independent English-language VPS offer directory. The six official sources are RackNerd, RamNode, GreenCloud, CloudCone, ServaRica and VPSDime. Regular prices are explicitly separated from promotions. Brand is a working name, not a trademark clearance claim.
 
-Live preview: https://vps-scout-preview.pages.dev/
+Live site: https://vps-scout-radar.pages.dev/
+
+Original preview URL: https://vps-scout-preview.pages.dev/ (redirects to the Git-integrated site).
 
 Public repository: https://github.com/xyh2005-qq/vps-scout-promo-radar
 
-**Status (2026-10-18):** public source repository and Cloudflare preview. Six official sources currently produce 97 plans and 107 sitemap entries. A six-hour GitHub Actions refresh is checked in; automatic delivery from GitHub to Cloudflare Pages is pending platform integration. A scheduled data refresh alone must not be mistaken for a verified automatic site deployment. No affiliate accounts or commissions are claimed.
+**Status (2026-10-18):** public repository, six official sources, 97 plans and 107 sitemap entries. GitHub Actions refreshes every six hours and Cloudflare Pages deploys repository commits automatically. The complete refresh → commit → Git-triggered deployment chain passed a real manual run of the scheduled workflow: [run 39124180394](https://github.com/xyh2005-qq/vps-scout-promo-radar/actions/runs/39124180394). Future scheduled runs are best effort; this observation is not an uptime guarantee. No affiliate accounts or commissions are claimed.
 
 ## Design and quality
 
@@ -38,14 +40,17 @@ Robots are fetched with the declared VPSScoutBot user agent. An unavailable, den
 
 Build excludes removed providers, expired offers and data older than 30 hours. Static pages cannot remove themselves if all future builds stop; their displayed check times must be consulted. No uptime or checkout availability testing is implied.
 
-## GitHub + Cloudflare production handoff
+## Connected update pipeline
 
-1. The public GitHub repository is `xyh2005-qq/vps-scout-promo-radar`; this repository contains the actual I-Lang configuration, source adapters, tests, fixtures, dataset and generated site.
-2. In Cloudflare Pages, create a **new Git-integrated** project from that repository. Build command: `python3 build.py`; output: `site`; production branch: `main`. Authorize the Cloudflare GitHub App for this repository. Do not convert the temporary preview: Cloudflare does not support converting Direct Upload projects to Git integration.
-3. Set the actual production domain, repository URL and deployment-status text in `.ilang/site.ilang`. Rebuild and commit. Enable Actions read/write repository permissions if organization policy requires it.
-4. Run `Refresh official VPS offers` manually. Verify the commit and the following Cloudflare deployment correspond to the updated `data/offers.json`; then verify the live `/status/` and a detail page. This end-to-end event delivery is unverified until connected.
-5. The checked-in schedule is `17 */6 * * *` UTC (01:17, 07:17, 13:17, 19:17 Asia/Shanghai). It uses GitHub's automatic job token to commit; you supply no personal API secret. Platform authorization is still required. `build.py` derives the workflow schedule from I-Lang via `templates/update.yml`; commit the generated workflow when changing schedule.
-6. Follow failed workflow runs and source layout changes. Public repositories can have scheduled workflows disabled after 60 days without repository activity. GitHub cron is best effort, not an SLA. Keep genuine source audit updates; do not manufacture activity for ranking.
+- Public GitHub repository: `xyh2005-qq/vps-scout-promo-radar`, branch `main`.
+- Git-integrated Cloudflare Pages project: `vps-scout-radar`. Build command: `python3 build.py`; output: `site`.
+- Schedule: `17 */6 * * *` UTC (01:17, 07:17, 13:17, 19:17 Asia/Shanghai). `build.py` derives `.github/workflows/update.yml` from I-Lang and `templates/update.yml`.
+- A refresh runs parser/configuration tests, fetches public sources, builds and validates pages, and commits actual source data/status. Cloudflare's Git integration then builds and deploys that commit. GitHub supplies its automatic job token; no personal API key or paid inference is used by the runtime.
+- A failed source is removed from current results. The workflow publishes that failure state before reporting failure. Follow the workflow run and the public `/status/` page.
+- The original Direct Upload preview could not become a Git-integrated project, so the Git-connected project is the production destination. The original preview redirects there.
+- GitHub cron is best effort. Public repositories may have scheduled workflows disabled after 60 days without activity. Do not manufacture repository activity for ranking.
+
+`quality/pipeline-proof.json` records the successful refresh commit and the matching Cloudflare Git-triggered deployment.
 
 Four scheduled builds per day are roughly 120–124 per month. Cloudflare's documented Free quota is currently 500 builds/month; extra commits also use it. GitHub standard hosted runners for public repositories are free under current published terms. No paid plan, card or custom domain is required for this preview; future platform policy changes are outside this project's control.
 

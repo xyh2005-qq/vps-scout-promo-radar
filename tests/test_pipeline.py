@@ -13,6 +13,15 @@ from scraper import racknerd,ramnode,greencloud,cloudcone,servarica,vpsdime,Fetc
 from build import build,live_offers
 
 class PipelineTests(unittest.TestCase):
+    def fixture_data(self):
+        now=datetime.now(timezone.utc).isoformat();offers=[]
+        from config import slug
+        for p in load_config()['providers']:
+            rows=PARSERS[p['parser']]((ROOT/'tests/fixtures'/f"{p['parser']}.html").read_text(),p)
+            for o in rows:
+                o.update(id=p['slug']+'-'+slug(o['title']),provider=p['name'],currency='USD',kind=p['kind'],source_url=p['source_url'],fetched_at=now,source_sha256='fixture-only')
+                offers.append(o)
+        return dict(generated_at=now,offers=offers,sources=[])
     def test_annual_price_and_plan_are_bound(self):
         p=load_config()['providers'][0]
         o=racknerd((ROOT/'tests/fixtures/racknerd.html').read_text(),p)[0]
@@ -42,8 +51,7 @@ class PipelineTests(unittest.TestCase):
     def test_ilang_provider_change_changes_output(self):
         original=(ROOT/'.ilang/site.ilang').read_text()
         modified='\n'.join(x for x in original.splitlines() if not x.startswith('RamNode |'))
-        data=json.loads((ROOT/'data/offers.json').read_text())
-        for offer in data['offers']:offer['fetched_at']=datetime.now(timezone.utc).isoformat()
+        data=self.fixture_data()
         with tempfile.TemporaryDirectory() as td:
             path=Path(td)/'site.ilang';path.write_text(modified)
             cfg=load_config(path);out=Path(td)/'site';build(cfg,data,out)
@@ -100,8 +108,7 @@ class PipelineTests(unittest.TestCase):
             self.assertNotIn('GreenCloud',(out/'index.html').read_text())
             self.assertNotIn('greencloud',(out/'sitemap.xml').read_text())
     def test_quarter_schema_and_dynamic_atlas(self):
-        data=json.loads((ROOT/'data/offers.json').read_text())
-        for offer in data['offers']:offer['fetched_at']=datetime.now(timezone.utc).isoformat()
+        data=self.fixture_data()
         quarter=next(o for o in data['offers'] if o['billing']=='quarter')
         with tempfile.TemporaryDirectory() as td:
             out=Path(td)/'site';build(data=data,out=out)

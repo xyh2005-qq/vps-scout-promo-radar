@@ -1,6 +1,6 @@
 # VPS Scout — design and quality review
 
-Reviewed 2026-10-18. Live preview: https://vps-scout-preview.pages.dev/
+Reviewed 2026-10-18. Live site: https://vps-scout-radar.pages.dev/
 
 The design target is the level of craft associated with Awwwards, The Webby Awards and FWA. This is a self-review, not an award, nomination, jury score or guarantee of recognition. Automated scores measure a limited set of technical checks; they do not certify creative quality.
 
@@ -44,7 +44,7 @@ An independent VPS field guide: editorial typography, a white/navy palette with 
 
 ## Remaining external limits
 
-The public GitHub repository is https://github.com/xyh2005-qq/vps-scout-promo-radar. A six-hour refresh is configured; automatic Cloudflare deployment from GitHub remains pending integration. The preview displays this state explicitly. Google Rich Results Test previously required account login and has not been marked passed. Affiliate fields remain empty. No registrations, awards submissions, paid services, social messages or claims of recognition were created by this work.
+The public GitHub repository is https://github.com/xyh2005-qq/vps-scout-promo-radar. The six-hour refresh and Cloudflare Git deployment are connected; run 39124180394 completed successfully and its resulting commit triggered a successful Cloudflare deployment. See `quality/pipeline-proof.json`. Google Rich Results Test previously required account login and has not been marked passed. Affiliate fields remain empty. No registrations, awards submissions, paid services, social messages or claims of recognition were created by this work.
 
 The catalog now covers six official providers with 97 plans in the 2026-10-18 source snapshot; independent user testing remains useful. Automated audit results do not establish market demand or search ranking.
 

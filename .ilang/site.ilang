@@ -1,6 +1,6 @@
 ::ILANG
 [TYPE:config][PROJECT:VPS Scout][LANG:zh]
-::STATE{@SITE, brand:VPS Scout, niche:VPS hosting offers, domain:https://vps-scout-preview.pages.dev}
+::STATE{@SITE, brand:VPS Scout, niche:VPS hosting offers, domain:https://vps-scout-radar.pages.dev}
 ::MODULE{PROVIDERS|title:抓哪几家 这里改了站就变}
 RackNerd | https://www.racknerd.com/ | https://www.racknerd.com/specials/ |
 RamNode | https://ramnode.com/ | https://ramnode.com/pricing/ |
@@ -11,7 +11,7 @@ VPSDime | https://vpsdime.com/ | https://vpsdime.com/linux-vps |
 ::MODULE{FIELDS|title:每条优惠提取什么}
 title price currency offer_url valid_until source_url fetched_at
 ::MODULE{SETTINGS|title:机器读取的明确配置}
-::CONFIG{"locale":"en-US","currency":"USD","cron":"17 */6 * * *","stale_hours":30,"repository_url":"https://github.com/xyh2005-qq/vps-scout-promo-radar","deployment_status":"Public repository available; six-hour GitHub refresh configured; automatic Pages deployment pending"}
+::CONFIG{"locale":"en-US","currency":"USD","cron":"17 */6 * * *","stale_hours":30,"repository_url":"https://github.com/xyh2005-qq/vps-scout-promo-radar","deployment_status":"Automatic six-hour GitHub refresh and Cloudflare Git deployment connected; end-to-end run verified"}
 ::MODULE{ADAPTERS|title:解析器和来源元数据}
 ::ADAPTER{"provider":"RackNerd","parser":"racknerd","kind":"special","currency":"USD","terms_url":"https://www.racknerd.com/affiliates-terms-of-service"}
 ::ADAPTER{"provider":"RamNode","parser":"ramnode","kind":"regular","currency":"USD","terms_url":""}
