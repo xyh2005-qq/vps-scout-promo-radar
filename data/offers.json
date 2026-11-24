@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:51:33+00:00",
+  "generated_at": "2026-11-24T09:52:16+00:00",
   "offers": [
     {
       "title": "512MB Standard VPS",
@@ -19,8 +19,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "1GB Standard VPS",
@@ -40,8 +40,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "2GB Standard VPS",
@@ -61,8 +61,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "3GB Standard VPS",
@@ -82,8 +82,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "4GB Standard VPS",
@@ -103,8 +103,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "6GB Standard VPS",
@@ -124,8 +124,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "8GB Standard VPS",
@@ -145,8 +145,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "16GB Standard VPS",
@@ -166,8 +166,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "2GB Premium VPS",
@@ -187,8 +187,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "4GB Premium VPS",
@@ -208,8 +208,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "6GB Premium VPS",
@@ -229,8 +229,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "8GB Premium VPS",
@@ -250,8 +250,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "16GB Premium VPS",
@@ -271,8 +271,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "32GB Premium VPS",
@@ -292,8 +292,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "512MB Storage VPS",
@@ -313,8 +313,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "1GB Storage VPS",
@@ -334,8 +334,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "2GB Storage VPS",
@@ -355,8 +355,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "3GB Storage VPS",
@@ -376,8 +376,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "4GB Storage VPS",
@@ -397,8 +397,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "8GB Storage VPS",
@@ -418,8 +418,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "12GB Storage VPS",
@@ -439,8 +439,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "1GB Lite VPS (IPv6 Only)",
@@ -461,8 +461,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "2GB Lite VPS (IPv6 Only)",
@@ -483,8 +483,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://ramnode.com/pricing/",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "title": "EPYCNYC-1",
@@ -505,14 +505,14 @@
         "1 Free Backup/Snapshot"
       ],
       "billing_note": "No refund/Money back on this plan",
-      "evidence": "EPYCNYC-1 | $25.00 USD Annually | 8 Available | No refund/Money back on this plan | 2048MB RAM | 25GB NVMe 4.0 RAID-10 Hard drive | 1 core @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 3TB Bandwidth | 10Gbps Port | Linux OS | Staten Island, NY Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
+      "evidence": "EPYCNYC-1 | $25.00 USD Annually | 7 Available | No refund/Money back on this plan | 2048MB RAM | 25GB NVMe 4.0 RAID-10 Hard drive | 1 core @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 3TB Bandwidth | 10Gbps Port | Linux OS | Staten Island, NY Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
       "id": "greencloud-epycnyc-1",
       "provider": "GreenCloud",
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCNYC-2",
@@ -533,42 +533,14 @@
         "1 Free Backup/Snapshot"
       ],
       "billing_note": "No refund/Money back on this plan",
-      "evidence": "EPYCNYC-2 | $35.00 USD Annually | 3 Available | No refund/Money back on this plan | 3072MB RAM | 35GB NVMe RAID-10 Hard drive | 2 cores @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 5TB Bandwidth | 10Gbps Port | Linux OS | Staten Island, NY Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
+      "evidence": "EPYCNYC-2 | $35.00 USD Annually | 2 Available | No refund/Money back on this plan | 3072MB RAM | 35GB NVMe RAID-10 Hard drive | 2 cores @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 5TB Bandwidth | 10Gbps Port | Linux OS | Staten Island, NY Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
       "id": "greencloud-epycnyc-2",
       "provider": "GreenCloud",
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
-    },
-    {
-      "title": "EPYCSJC-1",
-      "price": "25.00",
-      "billing": "year",
-      "offer_url": "https://greencloudvps.com/billing/store/premium-kvm-sale/epycsjc-1",
-      "specs": [
-        "2048MB RAM",
-        "25GB NVMe 4.0 RAID-10 Hard drive",
-        "1 core @ EPYC Milan CPU",
-        "1 IPv4",
-        "/64 IPv6",
-        "3TB Bandwidth",
-        "10Gbps Port",
-        "Linux OS",
-        "San Jose, CA Location",
-        "Virtfusion Control Panel",
-        "1 Free Backup/Snapshot"
-      ],
-      "billing_note": "No refund/Money back on this plan",
-      "evidence": "EPYCSJC-1 | $25.00 USD Annually | 2 Available | No refund/Money back on this plan | 2048MB RAM | 25GB NVMe 4.0 RAID-10 Hard drive | 1 core @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 3TB Bandwidth | 10Gbps Port | Linux OS | San Jose, CA Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
-      "id": "greencloud-epycsjc-1",
-      "provider": "GreenCloud",
-      "currency": "USD",
-      "kind": "special",
-      "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCSJC-2",
@@ -595,36 +567,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
-    },
-    {
-      "title": "EPYCSJC-3",
-      "price": "20.00",
-      "billing": "quarter",
-      "offer_url": "https://greencloudvps.com/billing/store/premium-kvm-sale/epycsjc-3",
-      "specs": [
-        "8192MB RAM",
-        "60GB NVMe 4.0 RAID-10 Hard Drive",
-        "4 cores EPYC Milan CPU",
-        "1 IPv4",
-        "/64 IPv6",
-        "8TB Bandwidth",
-        "10Gbps Port",
-        "Linux OS",
-        "San Jose, CA Location",
-        "Virtfusion Control Panel",
-        "1 Free Backup/Snapshot"
-      ],
-      "billing_note": "No refund/Money back on this plan",
-      "evidence": "EPYCSJC-3 | $20.00 USD Quarterly | 1 Available | No refund/Money back on this plan | 8192MB RAM | 60GB NVMe 4.0 RAID-10 Hard Drive | 4 cores EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 8TB Bandwidth | 10Gbps Port | Linux OS | San Jose, CA Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
-      "id": "greencloud-epycsjc-3",
-      "provider": "GreenCloud",
-      "currency": "USD",
-      "kind": "special",
-      "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCTX-1",
@@ -651,8 +595,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCTX-2",
@@ -679,8 +623,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCCA-1",
@@ -707,8 +651,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCCA-2",
@@ -735,8 +679,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCUK-1",
@@ -763,8 +707,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCUK-2",
@@ -791,8 +735,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "EPYCUK-3",
@@ -819,36 +763,8 @@
       "currency": "USD",
       "kind": "special",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
-    },
-    {
-      "title": "EPYCHKDC1-2",
-      "price": "35.00",
-      "billing": "year",
-      "offer_url": "https://greencloudvps.com/billing/store/premium-kvm-sale/epychkdc1-2",
-      "specs": [
-        "3072MB RAM",
-        "35GB NVMe RAID-10 Hard drive",
-        "2 cores @ EPYC Milan CPU",
-        "1 IPv4",
-        "/64 IPv6",
-        "1TB Bandwidth",
-        "10Gbps Port",
-        "Linux OS",
-        "Hong Kong DC1 Location",
-        "Virtfusion Control Panel",
-        "1 Free Backup/Snapshot"
-      ],
-      "billing_note": "No refund/Money back on this plan",
-      "evidence": "EPYCHKDC1-2 | $35.00 USD Annually | 1 Available | No refund/Money back on this plan | 3072MB RAM | 35GB NVMe RAID-10 Hard drive | 2 cores @ EPYC Milan CPU | 1 IPv4 | /64 IPv6 | 1TB Bandwidth | 10Gbps Port | Linux OS | Hong Kong DC1 Location | Virtfusion Control Panel | 1 Free Backup/Snapshot",
-      "id": "greencloud-epychkdc1-2",
-      "provider": "GreenCloud",
-      "currency": "USD",
-      "kind": "special",
-      "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "fetched_at": "2026-11-23T23:51:31+00:00",
-      "source_sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "fetched_at": "2026-11-24T09:52:12+00:00",
+      "source_sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "title": "SSD VPS 1",
@@ -873,8 +789,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "SSD VPS 2",
@@ -899,8 +815,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "SSD VPS 3",
@@ -925,8 +841,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "SSD VPS 4",
@@ -951,8 +867,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "SSD VPS 5",
@@ -977,8 +893,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "SSD VPS 6",
@@ -1003,8 +919,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://cloudcone.com/vps/",
-      "fetched_at": "2026-11-23T23:51:32+00:00",
-      "source_sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "fetched_at": "2026-11-24T09:52:13+00:00",
+      "source_sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "title": "4GB Linux VPS",
@@ -1024,8 +940,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "6GB Linux VPS",
@@ -1045,8 +961,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "12GB Linux VPS",
@@ -1066,8 +982,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "18GB Linux VPS",
@@ -1087,8 +1003,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "24GB Linux VPS",
@@ -1108,8 +1024,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "30GB Linux VPS",
@@ -1129,8 +1045,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "36GB Linux VPS",
@@ -1150,8 +1066,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "72GB Linux VPS",
@@ -1171,8 +1087,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "108GB Linux VPS",
@@ -1192,8 +1108,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "144GB Linux VPS",
@@ -1213,8 +1129,8 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     },
     {
       "title": "288GB Linux VPS",
@@ -1234,15 +1150,15 @@
       "currency": "USD",
       "kind": "regular",
       "source_url": "https://vpsdime.com/linux-vps",
-      "fetched_at": "2026-11-23T23:51:33+00:00",
-      "source_sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "fetched_at": "2026-11-24T09:52:15+00:00",
+      "source_sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     }
   ],
   "sources": [
     {
       "provider": "RackNerd",
       "source_url": "https://www.racknerd.com/specials/",
-      "attempted_at": "2026-11-23T23:51:29+00:00",
+      "attempted_at": "2026-11-24T09:52:09+00:00",
       "status": "error",
       "count": 0,
       "error": "RackNerd pricing layout changed"
@@ -1250,31 +1166,31 @@
     {
       "provider": "RamNode",
       "source_url": "https://ramnode.com/pricing/",
-      "attempted_at": "2026-11-23T23:51:31+00:00",
+      "attempted_at": "2026-11-24T09:52:12+00:00",
       "status": "ok",
       "count": 23,
-      "sha256": "a1ab151f6ca5d1fa372cd873db280593052d5f0e5ab1abc906b704e7ccfb91ec"
+      "sha256": "510ca04c5f747892699086c5554a4ec5d95d5e9b0322a96d84487faf45c19c1d"
     },
     {
       "provider": "GreenCloud",
       "source_url": "https://greencloudvps.com/billing/store/premium-kvm-sale",
-      "attempted_at": "2026-11-23T23:51:31+00:00",
+      "attempted_at": "2026-11-24T09:52:12+00:00",
       "status": "ok",
-      "count": 13,
-      "sha256": "b1193b68a97bc0211ac4bb7da211175d47b7ca329bf40d7cd80082ec03e4c672"
+      "count": 10,
+      "sha256": "44643690ef1d3da69e6717ca6c68c137f7cd5d15793e8c9214b368448af1735c"
     },
     {
       "provider": "CloudCone",
       "source_url": "https://cloudcone.com/vps/",
-      "attempted_at": "2026-11-23T23:51:32+00:00",
+      "attempted_at": "2026-11-24T09:52:13+00:00",
       "status": "ok",
       "count": 6,
-      "sha256": "2be5d1f0bb61ef3a21c109f36c206de881582d5a38127e50ec3325472b38c66a"
+      "sha256": "b128b4d98edb1408e31d2ed4cc8b7808d54b19ab70b843020fbe7a185ec09289"
     },
     {
       "provider": "ServaRica",
       "source_url": "https://servarica.com/browse/",
-      "attempted_at": "2026-11-23T23:51:33+00:00",
+      "attempted_at": "2026-11-24T09:52:14+00:00",
       "status": "error",
       "count": 0,
       "error": "No offers parsed; source needs review"
@@ -1282,10 +1198,10 @@
     {
       "provider": "VPSDime",
       "source_url": "https://vpsdime.com/linux-vps",
-      "attempted_at": "2026-11-23T23:51:33+00:00",
+      "attempted_at": "2026-11-24T09:52:15+00:00",
       "status": "ok",
       "count": 11,
-      "sha256": "d48ecb13e0f97a00a4ea65ddc30ed830155480356e29a81568a733e1608054c3"
+      "sha256": "a0b46d8af257b3a543c8c0ae261859a7026937340178080eff44951c5c0cce93"
     }
   ]
 }
